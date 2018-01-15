@@ -2,3 +2,5 @@ node_modules
 build
 npm-debug.log
 pointless_change
+.idea
+package-lock.json
